@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RSS Reader V0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-11 20:54-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Byron Herrera <bh@silencesoft.net>\n"
+"Language-Team: Byron Herrera <bh@silencesoft.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sil_rss_reader.php:228
+#: sil_rss_reader.php:971
+msgid "Options"
+msgstr "Opciones"
+
+#: sil_rss_reader.php:236
+msgid "Feeds total"
+msgstr "Total de Feeds"
+
+#: sil_rss_reader.php:240
+msgid "Multiple items for feed"
+msgstr "Ítems múltiples por feed"
+
+#: sil_rss_reader.php:247
+msgid "Show categories navigator on page"
+msgstr "Mostrar navegador de categorías en página"
+
+#: sil_rss_reader.php:254
+msgid "Show feed url on page"
+msgstr "Mostrar Url de feed en página"
+
+#: sil_rss_reader.php:261
+#: sil_rss_reader.php:1417
+msgid "Public OPML"
+msgstr "OPML Público"
+
+#: sil_rss_reader.php:268
+msgid "Date format"
+msgstr "Formato de fecha"
+
+#: sil_rss_reader.php:272
+msgid "Use SimplePie cache"
+msgstr "Use Cachè de Simplepie"
+
+#: sil_rss_reader.php:279
+msgid "List start"
+msgstr "Inicio de Lista"
+
+#: sil_rss_reader.php:283
+#: sil_rss_reader.php:1202
+msgid "List item"
+msgstr "Ítem"
+
+#: sil_rss_reader.php:287
+msgid "List end"
+msgstr "Fin de Lista"
+
+#: sil_rss_reader.php:291
+msgid "Image height"
+msgstr "Ancho de imagen"
+
+#: sil_rss_reader.php:295
+msgid "Image width"
+msgstr "Alto de imagen"
+
+#: sil_rss_reader.php:305
+#: sil_rss_reader.php:606
+#: sil_rss_reader.php:700
+#: sil_rss_reader.php:812
+#: sil_rss_reader.php:906
+#: sil_rss_reader.php:1083
+#: sil_rss_reader.php:1212
+#: sil_rss_reader.php:1429
+#: sil_rss_reader.php:1453
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: sil_rss_reader.php:556
+#: sil_rss_reader.php:1389
+msgid "Settings saved."
+msgstr "Cambios guardados."
+
+#: sil_rss_reader.php:567
+#: sil_rss_reader.php:803
+msgid "Title"
+msgstr "Título"
+
+#: sil_rss_reader.php:571
+#: sil_rss_reader.php:729
+msgid "Site Url"
+msgstr "Dirección del Sitio"
+
+#: sil_rss_reader.php:575
+#: sil_rss_reader.php:730
+msgid "Feed Url"
+msgstr "Url de Feed"
+
+#: sil_rss_reader.php:579
+msgid "Author"
+msgstr "Autor"
+
+#: sil_rss_reader.php:583
+#: sil_rss_reader.php:1197
+msgid "Description"
+msgstr "Descripción"
+
+#: sil_rss_reader.php:587
+msgid "Image"
+msgstr "Imagen"
+
+#: sil_rss_reader.php:591
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: sil_rss_reader.php:658
+#: sil_rss_reader.php:864
+msgid "Category items"
+msgstr "Ítems por Categoría"
+
+#: sil_rss_reader.php:720
+msgid "Manage Feeds"
+msgstr "Administrar Feeds"
+
+#: sil_rss_reader.php:728
+#: sil_rss_reader.php:928
+msgid "Name"
+msgstr "Nombre"
+
+#: sil_rss_reader.php:754
+#: sil_rss_reader.php:945
+msgid "Edit"
+msgstr "Editar"
+
+#: sil_rss_reader.php:755
+#: sil_rss_reader.php:946
+msgid "Delete"
+msgstr "Borrar"
+
+#: sil_rss_reader.php:763
+#: sil_rss_reader.php:954
+msgid "New"
+msgstr "Nuevo"
+
+#: sil_rss_reader.php:795
+#: sil_rss_reader.php:1161
+msgid "Category"
+msgstr "Categoría"
+
+#: sil_rss_reader.php:921
+msgid "Manage Categories"
+msgstr "Administrar Categorías"
+
+#: sil_rss_reader.php:972
+#: sil_rss_reader.php:1050
+msgid "Widget Options"
+msgstr "Opciones de Widget"
+
+#: sil_rss_reader.php:973
+#: sil_rss_reader.php:1181
+msgid "RSS Options"
+msgstr "Opciones de RSS"
+
+#: sil_rss_reader.php:974
+#: sil_rss_reader.php:1393
+msgid "OPML Options"
+msgstr "Opciones OPML"
+
+#: sil_rss_reader.php:975
+msgid "Categories List"
+msgstr "Lista de Categorías"
+
+#: sil_rss_reader.php:976
+msgid "Edit Category"
+msgstr "Editar Categoria"
+
+#: sil_rss_reader.php:976
+msgid "New Category"
+msgstr "Nueva  Categoría"
+
+#: sil_rss_reader.php:978
+msgid "Feed List"
+msgstr "Lista de Feeds"
+
+#: sil_rss_reader.php:979
+msgid "Edit Feed"
+msgstr "Editar Feed"
+
+#: sil_rss_reader.php:979
+msgid "New Feed"
+msgstr "Nuevo  Feed"
+
+#: sil_rss_reader.php:981
+#: sil_rss_reader.php:990
+msgid "Information"
+msgstr "Información"
+
+#: sil_rss_reader.php:1058
+#: sil_rss_reader.php:1155
+msgid "Widget Title"
+msgstr "Título del Widget"
+
+#: sil_rss_reader.php:1062
+#: sil_rss_reader.php:1158
+msgid "Number of items"
+msgstr "Número de ítems"
+
+#: sil_rss_reader.php:1066
+#: sil_rss_reader.php:1164
+msgid "Widget list start"
+msgstr "Inicio de lista de widget"
+
+#: sil_rss_reader.php:1070
+#: sil_rss_reader.php:1167
+msgid "Widget list items"
+msgstr "Lista de ítems en widget"
+
+#: sil_rss_reader.php:1074
+#: sil_rss_reader.php:1170
+msgid "Widget list end"
+msgstr "Fin de lista de widget"
+
+#: sil_rss_reader.php:1141
+#: sil_rss_reader.php:1649
+msgid "All"
+msgstr "Todo(a)s"
+
+#: sil_rss_reader.php:1189
+msgid "RSS Title"
+msgstr "Título RSS"
+
+#: sil_rss_reader.php:1193
+msgid "Link"
+msgstr "Vínculo"
+
+#: sil_rss_reader.php:1239
+msgid "Show rss category feeds on widget"
+msgstr "Mostrar feeds de categoría en widget"
+
+#: sil_rss_reader.php:1401
+msgid "OPML Title"
+msgstr "Título OPML"
+
+#: sil_rss_reader.php:1405
+msgid "Owner Name"
+msgstr "Nombre del Propietario"
+
+#: sil_rss_reader.php:1409
+msgid "Owner Email"
+msgstr "Correo Electrónico del Propietario"
+
+#: sil_rss_reader.php:1413
+msgid "Date Created"
+msgstr "Fecha de creación"
+
+#: sil_rss_reader.php:1435
+msgid "Import OPML"
+msgstr "Importar OPML"
+
+#: sil_rss_reader.php:1441
+msgid "OPML Url"
+msgstr "Dirección Web OPML"
+
+#: sil_rss_reader.php:1445
+msgid "OPML File"
+msgstr "Archivo OPML"
+
+#: sil_rss_reader.php:1647
+msgid "Choose a category"
+msgstr "Elige una Categoría"
+

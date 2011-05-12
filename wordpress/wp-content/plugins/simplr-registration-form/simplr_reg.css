@@ -1,0 +1,23 @@
+#simplr-form {padding:10px 5px; border-top: 1px dotted #eee; border-top: 1px dotted #eee; margin:10px; text-align:left;}
+#simplr-form label {clear:both;}
+
+.simplr-message {margin:5px 0; padding:10px; font-size:16px;}
+.success { background: green; color:#eee; }
+.error { background: red; color: #eee;}
+
+.simplr-field {margin:5px 0; display: block;} 
+.simplr-field .left {color: #000;}
+.simplr-field .required {color:red;}
+
+#simplr-form input {width:90%;clear:both;}
+input[type="password"] { 
+    background: #f9f9f9;
+    border: 1px solid #ccc;
+    box-shadow: inset 1px 1px 1px rgba(0,0,0,0.1);
+    -moz-box-shadow: inset 1px 1px 1px rgba(0,0,0,0.1);
+    -webkit-box-shadow: inset 1px 1px 1px rgba(0,0,0,0.1);
+    padding: 2px;
+    }
+#simplt-form label {width:90%;clear:both;display:block;margin:5px; }
+#simplr-form textarea {margin:5px 0 10px 8px;}
+#simplr-form .submit {clear:both;float:left;margin-right:9%;}

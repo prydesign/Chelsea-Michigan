@@ -1,0 +1,125 @@
+.clear { clear:both;}
+
+.wpbdmthumbs {	padding:4px; background-color:#dadada; border:1px solid #dddddd;-moz-border-radius: 3px;
+-khtml-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px; margin-right:15px;
+}
+	
+.viewlistingsbutton, .submitlistingbutton,.editlistingbutton, .deletelistingbutton {
+background:#95CDEE;
+border:1px solid #B6DCF3;
+-moz-border-radius: 4px;
+-khtml-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+width:auto;
+padding:5px;
+color:#1A6D9F;
+float:right;
+text-align:center;
+text-shadow:#ffffff 1px 1px 1px;
+}
+
+.editlistingsingleview .editlistingbutton
+{
+	float:left;
+	margin-right:20px;
+}
+
+.deletelistingbutton {
+background:#f2f2f2;
+border:1px solid #dddddd;
+-moz-border-radius: 4px;
+-khtml-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+width:auto;
+padding:5px;
+color:#666666;
+float:none;
+text-align:center;
+text-shadow:#ffffff 1px 1px 1px;
+}
+
+.exitnowbutton {
+background:#95CDEE;
+border:1px solid #B6DCF3;
+-moz-border-radius: 4px;
+-khtml-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+width:auto;
+padding:5px;
+color:#1A6D9F;
+float:none;
+text-align:center;
+text-shadow:#ffffff 1px 1px 1px;
+}
+
+.updradetostickylistingbutton {
+background:#F39C8D;
+border:1px solid #F39C8D;
+-moz-border-radius: 4px;
+-khtml-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+width:auto;
+padding:5px;
+color:#666666;
+float:left;
+text-align:center;
+text-shadow:#ffffff 1px 1px 1px;
+}
+
+.editlistingsingleview {  }
+
+
+.intextbox { border:1px solid #dddddd; padding:3px; }
+.inselect { border:1px solid #dddddd; padding:3px; }
+.inselectmulitple { border:1px solid #dddddd; padding:3px; width:auto; height:auto;  }
+
+.intextarea { width:100%; border:1px solid #dddddd; height:200px; }
+.insubmitbutton {background:#95CDEE;
+border:1px solid #B6DCF3;
+-moz-border-radius: 4px;
+-khtml-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+width:auto;;
+padding:5px;
+color:#1A6D9F;
+text-shadow:#ffffff 1px 1px 1px;
+text-align:center; 
+}
+
+#wpbusdirmancats { margin-bottom:20px; padding:10px;}
+#wpbusdirmancats ul  { margin-bottom:10px;margin-left:5px; }
+#wpbusdirmancats ul li { float:left; width:200px; padding:5px;  }
+
+ul#wpbusdirmanerrors { margin-left:20px; }
+ul#wpbusdirmanpaymentoptionslist { margin-left:20px; }
+#wpbusdirmanpaymentoptionslist li { margin-left:20px; list-style-type:none;margin:3px 0px; }
+
+.wpbusdirmanerroralert { color:#ff0000;font-weight:bold;font-size:14px; }
+
+#wpbdmlistings { list-style:none;margin-bottom:25px; border:1px solid #dddddd; padding:5px; }
+
+.wpbdmsingledetails { float:left;margin-left:10px;width:525px; }
+
+.paymentheader { background:#f2f2f2; padding:5px; color:#666666;}
+.paymentbuttondiv {padding:10px;  margin-bottom:10px;}
+
+.wpbdmac { font-size:9px; text-align:center;}
+
+.featuredlisting { 	width: 126px;
+	float:right; }
+	
+#wpbusdirmancontent { clear:both; padding:10px; background:#ffffff;}
+
+select { margin-bottom:15px; }
+textarea  { margin-bottom:15px; }
+p.wpbdmp { margin-bottom:0;}
+
+.wpbdmentry { padding:10px;}
+.extrathumbnails { margin-top:10px;}
